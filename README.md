@@ -1,6 +1,5 @@
-###                                                                   Hi there 👋, I'm Deepakshi Mahajan
-####                                                          Machine Learning Engineer | Deep Learning | OpenCV
-
+# Hi there 👋, I'm Deepakshi Mahajan
+####  Machine Learning Engineer | Deep Learning | OpenCV
 - 🔭 I’m currently working on AI end-to-end Products 
 - 🌱 I’m currently learning Computer Vision and GANs 
 - 👯 I’m looking to collaborate on Deep Learning and Computer vision Projects 
