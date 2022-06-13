@@ -1,16 +1,16 @@
-### Hi there 👋 I'm Deepakshi Mahajan
+### Hi there 👋, I'm Deepakshi Mahajan
+#### Machine Learning Engineer | Deep Learning | OpenCV
 
-<!--
-**mahajandeepakshi03/mahajandeepakshi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on AI end-to-end Products 
+- 🌱 I’m currently learning Computer Vision and GANs 
+- 👯 I’m looking to collaborate on Deep Learning and Computer vision Projects 
+- 💬 Ask me about Python, DL, OpenCV, Machine learning 
+- 📫 How to reach me: mahajandeepakshi03@gmail.com
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19mAnsmIbjWrnhCZmTBEDDobNfdDSLEOk/view?usp=sharing)
+- 🌟My Protfolio: [Link](http://deepakshi-m.herokuapp.com/)
+  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahajandeepakshi03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/deepakshi-mahajan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14067833/deepakshi-mahajan)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahajandeepakshi03&show_icons=true)  
