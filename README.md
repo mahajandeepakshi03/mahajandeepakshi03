@@ -6,7 +6,7 @@
 - 💬 Ask me about Python, DL, OpenCV, Machine learning 
 - 📫 How to reach me: mahajandeepakshi03@gmail.com
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19mAnsmIbjWrnhCZmTBEDDobNfdDSLEOk/view?usp=sharing)
-- 🌟My Protfolio: [Link](http://deepakshi-m.herokuapp.com/)
+- 🌟My Portfolio: [Link](http://deepakshi-m.herokuapp.com/)
   
 
 
