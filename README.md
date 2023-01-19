@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Deepakshi Mahajan
 ####  Machine Learning Engineer | Deep Learning | OpenCV
-- 🔭 I’m currently working on AI end-to-end Products 
-- 🌱 I’m currently learning Computer Vision and GANs 
+- 🔭 I’m currently working on AI and full stack end-to-end Products 
+- 🌱 I’m currently exploring Computer Vision and Segmentation models 
 - 👯 I’m looking to collaborate on Deep Learning and Computer vision Projects 
 - 💬 Ask me about Python, DL, OpenCV, Machine learning 
 - 📫 How to reach me: mahajandeepakshi03@gmail.com
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19mAnsmIbjWrnhCZmTBEDDobNfdDSLEOk/view?usp=sharing)
-- 🌟My Portfolio: [Link](http://deepakshi-m.herokuapp.com/)
+- 🌟My Portfolio: [Link](https://deepakshim.netlify.app/)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
